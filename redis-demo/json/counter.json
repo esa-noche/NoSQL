@@ -25,14 +25,14 @@
       "counterindex": "4",
       "type": "freq",
       "keyfields": "UserFreq",
-      "field": "202012012000"
+      "field": "2020.12.01 20:00"
     },
     {
       "countername": "UserLikeFreqIncr",
       "counterindex": "5",
       "type": "freq",
       "keyfields": "UserFreq",
-      "field": "202012012000",
+      "field": "2020.12.01 20:00",
       "valuefields": "3"
     },
     {
@@ -40,7 +40,7 @@
       "counterindex": "6",
       "type": "freq",
       "keyfields": "UserFreq",
-      "field": "202012012000",
+      "field": "2020.12.01 20:00",
       "valuefields": "1"
     }
   ]
